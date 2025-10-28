@@ -39,15 +39,15 @@ Excel (.xlsx) – as the data source
 
 📈 Dashboard Highlights
 
-📍 YTD Sales Trend: Weekly trend chart visualizing sales performance over time.
+ YTD Sales Trend: Weekly trend chart visualizing sales performance over time.
 
-🧭 Regional Sales Map: Displays dealership-level sales across U.S. regions.
+ Regional Sales Map: Displays dealership-level sales across U.S. regions.
 
-🚘 Body Style Analysis: Compares sales contribution by car type (SUV, Sedan, Hatchback, etc.).
+ Body Style Analysis: Compares sales contribution by car type (SUV, Sedan, Hatchback, etc.).
 
-🎨 Color Analysis: Shows customer preferences based on car color.
+ Color Analysis: Shows customer preferences based on car color.
 
-🏢 Company-wise Sales Trend: Highlights brand performance using KPIs and growth percentage.
+ Company-wise Sales Trend: Highlights brand performance using KPIs and growth percentage.
 
 🧾 Business Impact
 
