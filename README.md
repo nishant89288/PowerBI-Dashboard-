@@ -58,3 +58,11 @@ Monitor KPIs in real time and identify top-performing models or regions.
 Detect underperforming segments and make data-driven improvements.
 
 Support executive reporting and strategic business reviews.
+
+🚀 Key Learnings
+
+Built advanced KPIs using DAX and implemented complex filters.
+
+Strengthened understanding of data modeling and visualization design.
+
+Improved storytelling with business insights through clean dashboard layouts.
